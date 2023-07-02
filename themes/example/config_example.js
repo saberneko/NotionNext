@@ -5,7 +5,6 @@ const CONFIG_EXAMPLE = {
   MENU_ARCHIVE: true, // 显示归档
   MENU_SEARCH: true, // 显示搜索
 
-  POST_LIST_COVER: true // 列表显示文章封面
-
+  POST_LIST_COVER: false // 列表显示文章封面
 }
 export default CONFIG_EXAMPLE
